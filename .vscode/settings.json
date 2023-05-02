@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.jsx": "javascriptreact",
+		"*.js": "javascriptreact",
+		"get_next_line.h": "c"
+	}
+}
